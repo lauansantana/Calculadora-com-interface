@@ -26,7 +26,7 @@ valores = ''
 
 valor_texto = StringVar()
 
-#Funçao entrada de valores
+#Funçao entrada de valores 
 def entrada_valores(event):
     global valores
 
